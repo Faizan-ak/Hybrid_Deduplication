@@ -1,0 +1,14 @@
+
+Successfully Logged in on date 01-05-2016 and time 13:04:29
+
+User has seen the profile on date  01-05-2016 and time 13:04:32
+
+User has changed password on date 01-05-2016 and time 13:05:07
+
+Successfully Logged out on date 01-05-2016 and time 13:07:15
+
+Successfully Logged in on date 01-05-2016 and time 13:33:40
+
+User has seen the profile on date  01-05-2016 and time 13:33:43
+
+Successfully Logged out on date 01-05-2016 and time 13:37:05

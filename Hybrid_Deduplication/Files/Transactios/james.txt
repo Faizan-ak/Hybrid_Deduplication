@@ -1,0 +1,10 @@
+
+Successfully Logged in on date 29-05-2015 and time 10:38:42
+
+User has seen the profile on date  29-05-2015 and time 10:38:50
+
+User has uploaded file (joy.txt) on date 29-05-2015 and time 10:40:02
+
+User has uploaded file (joy.txt) on date 29-05-2015 and time 10:43:58
+
+Successfully Logged out on date 29-05-2015 and time 10:45:20
